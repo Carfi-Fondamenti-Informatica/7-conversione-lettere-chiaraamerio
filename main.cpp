@@ -1,5 +1,7 @@
 #include <iostream>
-#includusing namespace std;
+#including "lib.h"
+
+using namespace std;
 
 int main(){
    char c;

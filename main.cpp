@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib.h"
+#includusing namespace std;
 
 int main(){
    char c;
